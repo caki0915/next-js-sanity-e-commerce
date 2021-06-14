@@ -1,6 +1,6 @@
 {
   "name": "sanity-template-nextjs-ecommerce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Sanity.io and Next.js Ecommerce Starter template",
   "scripts": {
